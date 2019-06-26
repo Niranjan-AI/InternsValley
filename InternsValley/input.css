@@ -1,0 +1,89 @@
+input[type = text] {
+	width : 50%;
+	background-color : #e0e0eb;
+	color : black;
+	border-radius : 4px;
+	padding : 15px; 15px;
+	margin : 20px; 20px;
+	font-size : 115%;
+ }
+
+input[type = password]  {
+	width : 50%;
+	background-color : #e0e0eb;
+	color : black;
+	border-radius : 4px;
+	padding : 15px; 15px;
+	margin : 20px; 20px;
+	font-size : 115%;
+ }
+
+textarea {
+	width : 50%;
+	padding : 15px, 15px;
+	margin : 20px, 20px;
+	resize : none;
+	border-radius : 2px;
+	background-color : #e0e0eb;
+	color : black;
+	font-size : 115%;
+ }
+
+select {
+	background-color : #e0e0eb;
+	color : black;
+	width : 50%;
+	padding : 15px, 15px;
+	margin : 20px, 20px;
+	border-radius :4px;
+	font-size : 115%;
+ }
+
+input[type = submit] {
+	background-color : green;
+	color : white;
+	border-radius :4px;
+	cursor : pointer;
+	font-size : 115%;
+	padding : 50px, 50px;
+	margin-top : 25px;
+	margin-bottom : 25px;
+	margin-left : 75px;
+	margin-left : 75px;
+ }
+
+input[type = button] {
+	background-color : blue;
+	color : white;
+	padding : 15px, 15px;
+	margin : 20px, 20px;
+	border-radius :4px;
+	cursor : pointer;
+	font-size : 115%;
+	margin-top : 25px;
+	margin-bottom : 25px;
+	margin-left : 75px;
+	margin-left : 75px;
+ }
+
+button {
+	background-color : blue;
+	color : white;
+	padding : 15px, 15px;
+	margin : 20px, 20px;
+	border-radius :4px;
+	cursor : pointer;
+	font-size : 115%;
+	margin-top : 25px;
+	margin-bottom : 25px;
+	margin-left : 75px;
+	margin-left : 75px;
+ }
+
+img {
+	margin-top : 25px;
+	margin-bottom : 25px;
+	margin-left : 75px;
+	margin-left : 75px;
+	border : 2px black;
+ }
